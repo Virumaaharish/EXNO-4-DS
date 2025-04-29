@@ -3,8 +3,8 @@
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
 
-### NAME  : AJAY M
-### REG NO: 212223040009
+### NAME  : VIRUMAA HARISH M
+### REG NO: 212223230246
 
 # ALGORITHM:
 STEP 1:Read the given Data.
